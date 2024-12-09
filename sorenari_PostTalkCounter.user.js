@@ -2,8 +2,8 @@
 // @name         ソレナリ用文字数表示スクリプト
 // @namespace    http://tampermonkey.net/
 // @version      0.0.0
-// @updateURL    https://github.com/hiyori-mochiduki/sorenari_PostTalkCounter/blob/main/sorenari_PostTalkCounter.user.js
-// @downloadURL  https://github.com/hiyori-mochiduki/sorenari_PostTalkCounter/blob/main/sorenari_PostTalkCounter.user.js
+// @updateURL    https://hiyori-mochiduki.github.io/sorenari_PostTalkCounter/
+// @downloadURL  https://hiyori-mochiduki.github.io/sorenari_PostTalkCounter/
 // @description  文字数表示をします。
 // @author       mochihiyo_fox
 // @match        https://ermk.xsrv.jp/talk.php?TID=*
